@@ -1,24 +1,9 @@
 {
   "users": [
-    {
-      "id": 1,
-      "username": "admin",
-      "password": "123",
-      "role": "admin"
-    },
-    {
-      "id": "52b4",
-      "username": "stu",
-      "password": "123",
-      "role": "student"
-    }
+    { "id": 1, "username": "alice", "password": "123", "role": "admin" },
+    { "id": 2, "username": "bob", "password": "456", "role": "student" }
   ],
   "students": [
-    {
-      "id": "e382",
-      "name": "student",
-      "username": "stu",
-      "score": 0
-    }
+    { "id": 1, "name": "Bob", "score": 85, "username": "bob" }
   ]
 }
