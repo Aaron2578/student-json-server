@@ -17,7 +17,15 @@
   }
   ],
   "feedbacks": [
-   
+    {
+    "studentUsername": "Advika",
+    "text": "Very Nice, it was interesting",
+    "rating": 5,
+    "designation": "School Student",
+    "visible": true,
+    "id": 1
+  }
   ]
 }
+
 
