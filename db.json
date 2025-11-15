@@ -5,9 +5,19 @@
       "username": "admin",
       "password": "admin123",
       "role": "admin"
-    }
+    },
+    {
+    "username": "Dhilsath",
+    "password": "student@123",
+    "role": "student",
+    "designation": "Teacher",
+    "totalMarks": 22,
+    "outOf": 25,
+    "id": "Ej3-cdp"
+  }
   ],
   "feedbacks": [
    
   ]
 }
+
