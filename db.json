@@ -3,7 +3,7 @@
     {
       "id": "1",
       "username": "admin",
-      "password": "admin123",
+      "password": "123",
       "role": "admin"
     },
     {
@@ -11,8 +11,8 @@
     "password": "student@123",
     "role": "student",
     "designation": "Teacher",
-    "totalMarks": 22,
-    "outOf": 25,
+    "totalMarks": 27,
+    "outOf": 30,
     "id": "Ej3-cdp"
   }
   ],
@@ -27,5 +27,6 @@
   }
   ]
 }
+
 
 
