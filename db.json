@@ -11,8 +11,8 @@
     "password": "student@123",
     "role": "student",
     "designation": "Teacher",
-    "totalMarks": 27,
-    "outOf": 30,
+    "totalMarks": 37,
+    "outOf": 40,
     "id": "Ej3-cdp"
   }
   ],
@@ -27,6 +27,7 @@
   }
   ]
 }
+
 
 
 
